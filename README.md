@@ -4,7 +4,7 @@
 
 Language : C#
 
-Animation - Contain Animation of game onject.
+Animation - Contain Animation of game object.
 
 Material - it has prefabs of material like bouncy and its physics.
 
